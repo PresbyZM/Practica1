@@ -12,12 +12,12 @@ export class Tab1Page implements OnInit{
 
   ngOnInit(): void {
 
-    console.log("victorrrrr");
+    console.log("Hello Word Presby");
     let numero = 10;
-    debugger;
+    //debugger;
     numero = 50;
     numero = 0;
-    console.log(numero);
+    console.log("EL valor que se manda a llamar es "+numero);
       
   }
 
